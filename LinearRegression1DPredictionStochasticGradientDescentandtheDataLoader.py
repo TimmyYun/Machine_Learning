@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 from mpl_toolkits import mplot3d
+
 # The class for plot the diagram
 
 class plot_error_surfaces(object):
